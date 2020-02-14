@@ -6,8 +6,10 @@ const mongoose = require('mongoose');
 const express = require('express');
 const router = express.Router();
 
-router.get('/', async (req, res) => {
+router.get('/', auth, async (req, res) => {
+  if (req.user.role !== 'Admin') return res.status(400).send("Unauthorised Access is Denied");
   const rooms = await Room.find().sort('rmno');
+  
   res.send(rooms);
 });
 
