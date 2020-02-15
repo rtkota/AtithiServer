@@ -10,23 +10,23 @@ const roomSchema = new mongoose.Schema({
   },
   category: {
     type: String,
-    minlength: 3,
+    minlength: 0,
     maxlength: 50
   },
   bedtype: {
     type: String,
-    minlength: 3,
+    minlength: 0,
     maxlength: 50
   },
   desc: {
     type: String,
-    minlength: 3,
+    minlength: 0,
     maxlength: 255
   },
   status: {
     type: String,
-    minlength: 5,
-    maxlength: 50
+    enum:['OCC','VAC','RNR','OOO'],
+    default:'VAC',
   }
 });
 
@@ -34,7 +34,11 @@ const Room = mongoose.model('Room', roomSchema);
 
 function validateRoom(room) {
   const schema = {
-    rmno: Joi.string().min(3).max(4).required()
+    rmno: Joi.string().min(3).max(4).required(),
+    category: Joi.string().min(0).max(50),
+    bedtype: Joi.string().min(0).max(50),
+    desc: Joi.string().min(0).max(255),
+    status: Joi.string().valid('OCC','VAC','RNR','OOO').default('VAC')
   };
 
   return Joi.validate(room, schema);
