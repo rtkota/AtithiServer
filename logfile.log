@@ -18,3 +18,219 @@
 {"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-14T07:08:21.656Z"}
 {"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-14T07:20:48.269Z"}
 {"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-14T07:20:50.306Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-14T11:20:45.689Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-14T11:20:47.711Z"}
+{"message":"Cannot read property 'generateAuthToken' of null","stack":"TypeError: Cannot read property 'generateAuthToken' of null\n    at F:\\atithiServer\\routes\\users.js:24:22","level":"error","timestamp":"2020-02-14T11:23:17.726Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-14T11:28:38.096Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-14T11:28:40.142Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-14T11:28:44.159Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-14T11:28:46.182Z"}
+{"message":"Cannot read property 'generateAuthToken' of null","stack":"TypeError: Cannot read property 'generateAuthToken' of null\n    at F:\\atithiServer\\routes\\users.js:24:22","level":"error","timestamp":"2020-02-14T11:28:53.511Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-14T11:29:37.191Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-14T11:29:39.213Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-14T11:29:40.603Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-14T11:29:42.050Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-14T11:29:44.116Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-14T11:29:46.154Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-14T11:29:52.621Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-14T11:29:54.644Z"}
+{"message":"Cannot read property 'generateAuthToken' of null","stack":"TypeError: Cannot read property 'generateAuthToken' of null\n    at F:\\atithiServer\\routes\\users.js:25:22","level":"error","timestamp":"2020-02-14T11:29:56.060Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-14T11:30:30.101Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-14T11:30:32.634Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-14T11:30:34.655Z"}
+{"message":"Cannot read property 'generateAuthToken' of null","stack":"TypeError: Cannot read property 'generateAuthToken' of null\n    at F:\\atithiServer\\routes\\users.js:25:22","level":"error","timestamp":"2020-02-14T11:30:35.043Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-14T11:33:27.298Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-14T11:33:29.314Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:15:39.402Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:15:41.421Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:18:34.847Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:18:35.962Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:18:37.998Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:19:18.781Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:19:20.817Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:19:25.119Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:19:27.155Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:19:53.036Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:19:56.058Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:19:58.083Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:20:00.131Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:20:00.766Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:20:02.036Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:20:03.565Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:20:05.607Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:20:07.958Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:20:09.638Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:20:10.670Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:20:12.692Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:20:28.756Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:20:29.539Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:20:31.563Z"}
+{"message":"User.findone is not a function","stack":"TypeError: User.findone is not a function\n    at F:\\atithiServer\\routes\\users.js:20:25","level":"error","timestamp":"2020-02-15T05:21:56.434Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:22:20.250Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:22:22.274Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:22:30.684Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:22:31.510Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:22:33.547Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:22:37.737Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:22:46.770Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:22:48.809Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:22:49.641Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:22:51.674Z"}
+{"message":"Cannot set property 'password' of null","stack":"TypeError: Cannot set property 'password' of null\n    at F:\\atithiServer\\routes\\users.js:21:17","level":"error","timestamp":"2020-02-15T05:22:53.458Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:24:13.918Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:24:16.488Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:24:18.569Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:24:19.172Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:24:20.384Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:24:22.401Z"}
+{"message":"Cannot set property 'password' of null","stack":"TypeError: Cannot set property 'password' of null\n    at F:\\atithiServer\\routes\\users.js:21:17","level":"error","timestamp":"2020-02-15T05:24:24.738Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:25:31.335Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:25:33.886Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:25:36.613Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:25:38.649Z"}
+{"message":"Cannot set property 'password' of null","stack":"TypeError: Cannot set property 'password' of null\n    at F:\\atithiServer\\routes\\users.js:21:17","level":"error","timestamp":"2020-02-15T05:25:41.715Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:26:52.559Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:26:54.595Z"}
+{"message":"Cannot set property 'password' of null","stack":"TypeError: Cannot set property 'password' of null\n    at F:\\atithiServer\\routes\\users.js:21:17","level":"error","timestamp":"2020-02-15T05:26:56.490Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:28:15.277Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:28:16.265Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:28:18.017Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:28:20.037Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:28:30.314Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:28:32.345Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:28:33.587Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:28:34.862Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:28:36.880Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:28:42.759Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:28:44.071Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:28:46.090Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:28:54.134Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:28:56.158Z"}
+{"message":"Cast to ObjectId failed for value \"{ _Id: undefined }\" at path \"_id\" for model \"User\"","stack":"CastError: Cast to ObjectId failed for value \"{ _Id: undefined }\" at path \"_id\" for model \"User\"\n    at new CastError (F:\\atithiServer\\node_modules\\mongoose\\lib\\error\\cast.js:27:11)\n    at ObjectId.cast (F:\\atithiServer\\node_modules\\mongoose\\lib\\schema\\objectid.js:158:13)\n    at ObjectId.SchemaType.applySetters (F:\\atithiServer\\node_modules\\mongoose\\lib\\schematype.js:701:12)\n    at ObjectId.SchemaType._castForQuery (F:\\atithiServer\\node_modules\\mongoose\\lib\\schematype.js:1072:15)\n    at ObjectId.castForQuery (F:\\atithiServer\\node_modules\\mongoose\\lib\\schema\\objectid.js:198:15)\n    at ObjectId.SchemaType.castForQueryWrapper (F:\\atithiServer\\node_modules\\mongoose\\lib\\schematype.js:1041:15)\n    at cast (F:\\atithiServer\\node_modules\\mongoose\\lib\\cast.js:214:34)\n    at model.Query.Query.cast (F:\\atithiServer\\node_modules\\mongoose\\lib\\query.js:3133:12)\n    at model.Query.Query._castConditions (F:\\atithiServer\\node_modules\\mongoose\\lib\\query.js:1269:10)\n    at model.Query.Query._findOne (F:\\atithiServer\\node_modules\\mongoose\\lib\\query.js:1485:8)\n    at F:\\atithiServer\\node_modules\\kareem\\index.js:276:8\n    at F:\\atithiServer\\node_modules\\kareem\\index.js:23:7\n    at processTicksAndRejections (internal/process/task_queues.js:76:11)","name":"CastError","stringValue":"\"{ _Id: undefined }\"","kind":"ObjectId","value":{},"path":"_id","level":"error","timestamp":"2020-02-15T05:28:57.873Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:31:14.621Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:31:16.658Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:31:19.882Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:31:20.837Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:31:22.859Z"}
+{"message":"Cannot set property 'password' of null","stack":"TypeError: Cannot set property 'password' of null\n    at F:\\atithiServer\\routes\\users.js:21:17","level":"error","timestamp":"2020-02-15T05:31:37.182Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:32:06.939Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:32:08.330Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:32:10.059Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:32:10.725Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:32:11.788Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:32:12.677Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:32:13.602Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:32:19.199Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:32:20.957Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:32:22.981Z"}
+{"message":"Cannot set property 'password' of null","stack":"TypeError: Cannot set property 'password' of null\n    at F:\\atithiServer\\routes\\users.js:21:17","level":"error","timestamp":"2020-02-15T05:32:28.784Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:34:55.429Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:34:57.450Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:35:00.582Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:35:02.604Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:35:03.463Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:35:05.981Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:35:06.720Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:35:08.765Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:35:11.798Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:35:12.496Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:35:14.518Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:35:18.794Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:35:21.449Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:35:23.232Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:35:25.248Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:36:39.764Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:36:41.786Z"}
+{"message":"Cannot set property 'password' of null","stack":"TypeError: Cannot set property 'password' of null\n    at F:\\atithiServer\\routes\\users.js:20:18","level":"error","timestamp":"2020-02-15T05:36:54.834Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:46:18.223Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:46:19.657Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:46:21.673Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:46:23.328Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:46:25.604Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:46:29.479Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:46:31.499Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:47:41.851Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:47:43.874Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:47:47.080Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:47:49.118Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:49:04.770Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:49:06.793Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:49:08.495Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:49:10.533Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:49:13.102Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:49:15.124Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:53:08.656Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:53:10.693Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:53:12.567Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:53:14.019Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:53:16.048Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:53:24.886Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:53:27.663Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:53:28.776Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:53:30.797Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:53:35.443Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:53:38.029Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:53:38.983Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:53:41.256Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:53:42.394Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:53:43.731Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:53:45.753Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:53:48.830Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:53:50.853Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:53:57.884Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:53:58.616Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:54:00.638Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:54:02.283Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:54:04.321Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:54:05.583Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:54:07.623Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:54:14.408Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:54:16.423Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:54:23.061Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T05:54:25.254Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T05:54:27.278Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T06:01:11.085Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T06:01:13.108Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T06:07:21.214Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T06:07:23.253Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T06:07:28.459Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T06:07:33.589Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T06:07:34.376Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T06:07:42.524Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T06:07:44.548Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T06:10:41.613Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T06:10:43.644Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T06:15:21.541Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T06:15:23.576Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T06:15:32.727Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T06:15:34.761Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T06:15:41.707Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T06:15:43.742Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T06:15:50.797Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T06:15:52.819Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T06:15:54.981Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T06:15:57.017Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T06:16:08.503Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T06:16:10.137Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T06:16:11.837Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T06:16:13.226Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T06:16:15.256Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T06:16:53.745Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T06:16:55.428Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T06:16:57.450Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T06:17:03.933Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T06:17:05.601Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T06:17:07.952Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T06:17:09.997Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T06:18:14.795Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T06:18:17.065Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T06:18:19.104Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T06:18:32.400Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T06:18:33.270Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T06:18:35.307Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T06:18:39.247Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T06:18:41.270Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T06:18:50.646Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T06:18:52.687Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-02-15T06:18:54.228Z"}
+{"level":"info","message":"Connected to mongodb://localhost/atithi...","timestamp":"2020-02-15T06:18:56.250Z"}
