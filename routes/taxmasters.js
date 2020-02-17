@@ -1,9 +1,11 @@
+const auth = require('../middleware/auth');
+const admin = require('../middleware/admin');
 const {Taxmaster, validate} = require('../models/taxmaster'); 
 const mongoose = require('mongoose');
 const express = require('express');
 const router = express.Router();
 
-router.get('/', async (req, res) => {
+router.get('/', auth, async (req, res) => {
   const taxmaster = await Taxmaster.find().sort('name');
   res.send(taxmaster);
 });
@@ -38,7 +40,7 @@ router.delete('/:id', [auth,admin], async (req, res) => {
   res.send(taxmaster);
 });
 
-router.get('/:id', async (req, res) => {
+router.get('/:id', auth, async (req, res) => {
   const taxmaster = await Taxmaster.findById(req.params.id);
 
   if (!taxmaster) return res.status(404).send('The Tax with the given ID was not found.');
