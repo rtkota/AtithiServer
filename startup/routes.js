@@ -1,5 +1,7 @@
 const express = require('express');
-const room = require('../routes/room');
+const rooms = require('../routes/rooms');
+const taxmasters = require('../routes/taxmasters');
+const userroles = require('../routes/userroles');
 const customers = require('../routes/customers');
 const movies = require('../routes/movies');
 const rentals = require('../routes/rentals');
@@ -10,7 +12,9 @@ const error = require('../middleware/error');
 
 module.exports = function(app) {
   app.use(express.json());
-  app.use('/api/room', room);
+  app.use('/api/rooms', rooms);
+  app.use('/api/taxmasters', taxmasters);
+  app.use('/api/userroles', userroles);
   app.use('/api/customers', customers);
   app.use('/api/movies', movies);
   app.use('/api/rentals', rentals);
