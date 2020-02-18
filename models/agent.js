@@ -6,7 +6,8 @@ const Agent = mongoose.model('agent', new mongoose.Schema({
     type: String,
     required: true,
     minlength: 5,
-    maxlength: 50
+    maxlength: 50,
+    unique: true
   },
   address: {
     type: String,

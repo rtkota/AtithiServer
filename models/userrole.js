@@ -7,7 +7,8 @@ const Userrole = mongoose.model('userrole', new mongoose.Schema({
     required: true,
     trim: true, 
     minlength: 5,
-    maxlength: 255
+    maxlength: 255,
+    unique: true
   }
 }));
 
